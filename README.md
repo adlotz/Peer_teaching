@@ -37,7 +37,7 @@ Un **site dynamique** va réagir au visiteur et adapté son contenu, comme par e
 * Le C de MVC signifie Contrôleur. Il fait le lien entre la vue et le modèle.
 <br />
 
-![Schéma](https://imgur.com/KAOwIMb)
+![Schéma](https://www.supinfo.com/articles/resources/203914/1625/0.png)
 
 
 <br />
