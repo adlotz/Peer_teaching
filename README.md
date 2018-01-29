@@ -4,7 +4,8 @@
 
 Ce readme vise à vulgariser les différents concepts de rails afin de mieux les apréhender.
 <br />
-### Nous auront donc avoir un aperçu de :
+
+### Nous auront donc un aperçu de :
 
 * La différence entre un site statique et un site dynamique.
 * Le MVC.
@@ -35,7 +36,8 @@ Un **site dynamique** va réagir au visiteur et adapté son contenu, comme par e
 
 * Le C de MVC signifie Contrôleur. Il fait le lien entre la vue et le modèle.
 <br />
-![Schéma](https://www.supinfo.com/articles/resources/203914/1625/0.png)
+![Schéma](https://imgur.com/KAOwIMb)
+<br />
 <br />
 l'utilisateur envoie une demande au controlleur en passant par son navigateur, le controlleur fait une requete au modèle en fonction de la demande utilisateur. le modèle lui répond et le controlleur renvoie la réponse en la traduisant en passant par la vue, affichant alors la réponse sur le navigateur.
 
