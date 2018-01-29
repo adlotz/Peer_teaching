@@ -41,7 +41,6 @@ Un **site dynamique** va réagir au visiteur et adapté son contenu, comme par e
 
 
 <br />
-<br />
 l'utilisateur envoie une demande au controlleur en passant par son navigateur, le controlleur fait une requete au modèle en fonction de la demande utilisateur. le modèle lui répond et le controlleur renvoie la réponse en la traduisant en passant par la vue, affichant alors la réponse sur le navigateur.
 
 <br />
@@ -67,7 +66,9 @@ On peu prendre l'exemple d'un document excel, avec le bon identifiant l'on peu a
 
 Pour faire simple, on utilise GET pour obtenir des données, et POST pour transmettre des données
 Ce sont deux requêtes distinctes.
+<br />
 Avec **GET** on récupère des données ajoutées à l'URI
+<br />
 Avec **POST** on récupère des données inscrites dans un formulaire.
 
 <br />
